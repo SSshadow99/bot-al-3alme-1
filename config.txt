@@ -1,6 +1,6 @@
-﻿token=
-owner=
-prefix=
-game=
+token=NTE5NDY3MTc1NjEwOTQxNDUw.DufvMA.9FQgsHKfKclB_E4MvQ2PCGMqn_c
+owner=486149211595866112
+prefix=tunnnnnetunnnnnnne8mrrrr-
+game=i Love you :)
 stayinchannel=true
 songinstatus=false
