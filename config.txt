@@ -1,6 +1,6 @@
-token=NTE5NDY3MTc1NjEwOTQxNDUw.DufvMA.9FQgsHKfKclB_E4MvQ2PCGMqn_c
-owner=486149211595866112
-prefix=tunnnnnetunnnnnnne8mrrrr-
-game=i Love you :)
+token=NTIwNjA5MDE0MDkwOTU2ODE5.DuwWng.kSPMCOuNBMY9Rw3zADm0ia3_aMY
+owner=442458411779620874
+prefix=4
+game=Elite Music Bot
 stayinchannel=true
 songinstatus=false
