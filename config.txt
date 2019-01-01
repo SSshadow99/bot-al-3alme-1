@@ -1,6 +1,6 @@
-token=NTIwNjA5MDE0MDkwOTU2ODE5.DuwWng.kSPMCOuNBMY9Rw3zADm0ia3_aMY
-owner=442458411779620874
-prefix=4
-game=Elite Music Bot
+token=NTI5MDIwNjEyMzY3MzUxODA4.DwzB_Q.UmfQNNj9YT8_Dh9wnbGFP6iqZJM
+owner=526722343519649813
+prefix=$
+game= $help
 stayinchannel=true
 songinstatus=false
